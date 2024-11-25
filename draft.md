@@ -66,6 +66,8 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{surveydown} 0.5.0](https://cran.r-project.org/package=surveydown): Markdown-Based Surveys Using 'Quarto' and 'shiny' - [surveydown.org](https://surveydown.org)
+  
 + [{tinytable} 0.6.1](https://cran.r-project.org/package=tinytable): Simple and Configurable Tables in 'HTML', 'LaTeX', 'Markdown', 'Word', 'PNG', 'PDF', and 'Typst' Formats - [diffify](https://diffify.com/R/tinytable)
 
 + [{ggiraph} 0.8.11](https://cran.r-project.org/package=ggiraph): Make 'ggplot2' Graphics Interactive - [diffify](https://diffify.com/R/ggiraph)
